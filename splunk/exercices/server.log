@@ -1,0 +1,6 @@
+2024-09-03T14:05:33.123456Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2024-09-03T14:05:33.123457Z 0 [Note] InnoDB: Using Linux native AIO
+2024-09-03T14:05:33.123458Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2024-09-03T14:05:33.123459Z 0 [Note] InnoDB: Uses event mutexes
+2024-09-03T14:05:33.123460Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2024-09-03T14:05:33.123461Z 0 [Note] InnoDB: Number of pools: 1
